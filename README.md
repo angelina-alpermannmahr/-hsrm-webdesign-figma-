@@ -5,7 +5,7 @@ Hochschule RheinMain | Sommersemester 2025
 
 ---
 
-## 📌 Projektbeschreibung
+## Projektbeschreibung
 
 Im Rahmen des Moduls "Interaction Design" entstand ein nutzerzentrierter Prototyp für die fiktive Sicherheitslösung SecuArt. Ziel war es, eine Website zu entwickeln, die Kultur und digitale Sicherheit verbindet.
 
