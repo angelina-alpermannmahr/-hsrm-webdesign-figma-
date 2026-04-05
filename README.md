@@ -29,7 +29,7 @@ Im Rahmen des Moduls "Interaction Design" entstand ein nutzerzentrierter Prototy
 
 ## Figma Prototyp
 
-👉 [Zum interaktiven Prototyp][(HIER DEINEN FIGMA LINK EINFÜGEN)](https://www.figma.com/design/Ix1BunlcHjjd3V5wS46igQ/Secuart?node-id=0-1&t=tiK1uErhmgYl2Yln-1)
+👉 [Zum interaktiven Prototyp][(https://www.figma.com/design/Ix1BunlcHjjd3V5wS46igQ/Secuart?node-id=0-1&t=tiK1uErhmgYl2Yln-1)]
 
 ---
 
